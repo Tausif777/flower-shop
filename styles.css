@@ -38,7 +38,7 @@
     margin-right: 200px;
 }
 .section-title{
-    color: #181818;
+    color: darkgrey;
     text-align: center;
     font-size: 35px;
     font-weight: 700;
@@ -107,6 +107,7 @@
 .banner-description{
     text-align: center;
 }
+/**footer section style start**/
 .footer-column{
     background-color: #181818;
     width: 1280px;
@@ -127,4 +128,4 @@
     text-align: center;
     color: gray;
 }
-   
+   /**footer section style end**/

@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+
+}
+.header{
+    background-color: #d1c1c4c8;
+    height: 600px;
+    width: 1280px;
+    
+    
+}
+.btn-primary{
+    background-color: palevioletred;
+    padding: 10px 15px;
+    border: 0;
+    color: #fff;
+    border-radius: 2px;
+}
+.banner{
+    
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    
+
+}
+.banner-title{
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.banner-description{
+    margin-bottom: 30px;
+}
+.banner-container{
+    margin-right: 200px;
+}
+

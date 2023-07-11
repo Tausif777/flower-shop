@@ -90,3 +90,41 @@
 .image-title{
     text-align: center;
 }
+.level-3{
+    
+    width: 880px;
+    height: 200px;
+    padding-top: 800px;
+}
+.title-word{
+    color: red;
+}
+.f-title{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+.banner-description{
+    text-align: center;
+}
+.footer-column{
+    background-color: #181818;
+    width: 1280px;
+    height: 300px;
+
+}
+.section-title{
+    color: #fff;
+    padding-top: 80px;
+}
+.section-description{
+    padding-bottom: 20px;
+}
+.footer-color{
+    color: palevioletred;
+}
+.copyright{
+    text-align: center;
+    color: gray;
+}
+   
